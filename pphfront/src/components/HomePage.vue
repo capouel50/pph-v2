@@ -1,18 +1,18 @@
 <template>
   <q-page>
     <div class="row justify-center">
-      <div class="col-md-8">
+      <div class="q-col-md-8">
         <div class="row">
-          <div class="col-6 text-h5 text-center text-cyan-4">
+          <div class="q-col-6 text-h5 text-center text-cyan-4">
             Matières premières
           </div>
-          <div class="col-6 text-h5 text-center text-cyan-4">
+          <div class="q-col-6 text-h5 text-center text-cyan-4">
             Préparations
           </div>
         </div>
         <div class="row justify-center">
 
-          <div class="col-2 card-home q-ml-sm q-mt-sm">
+          <div class="q-col-2 card-home q-ml-sm q-mt-sm">
             <q-card bordered>
               <q-img src="../assets/img/commande.jpg">
                 <div class="absolute-top text-subtitle2 text-center hover-effect">
@@ -25,7 +25,7 @@
             </q-card>
           </div>
 
-          <div class="col-2 card-home offset-1 q-mt-sm">
+          <div class="q-col-2 card-home offset-1 q-mt-sm">
             <q-card bordered>
               <q-img src="../assets/img/livrer.jpg">
                 <div class="absolute-top text-subtitle2 text-center hover-effect">
@@ -38,7 +38,7 @@
             </q-card>
           </div>
 
-          <div class="col-2 card-home offset-1 q-mt-sm">
+          <div class="q-col-2 card-home offset-1 q-mt-sm">
             <q-card bordered>
               <q-img src="../assets/img/demande3.jpg">
                 <div class="absolute-top text-subtitle2 text-center hover-effect">
@@ -55,7 +55,7 @@
             </q-card>
           </div>
 
-          <div class="col-2 card-home offset-1 q-mt-sm">
+          <div class="q-col-2 card-home offset-1 q-mt-sm">
             <q-card bordered>
               <q-img src="../assets/img/controle2.jpg">
                 <div class="absolute-top text-subtitle2 text-center hover-effect">
